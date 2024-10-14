@@ -2,6 +2,7 @@
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/683be85f-40bb-4197-bb90-75c3a368dd76">
 
 
+[Click here to view the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBjZGQ2NzctYWY1Ny00NjVkLWE0M2YtOWVjODFkMjY5MzVlIiwidCI6IjEyOTdlYzZmLTMxNjQtNDg4YS1hYjI0LWQ2YTJiMDBmMDBiMiJ9)
 
 # Blinkit Sales Analysis
 
